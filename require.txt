@@ -1,0 +1,4 @@
+opencv-contrib-python version=='4.5.2.52'
+mediapipe             version=='0.8.5'
+Pillow                version=='8.1.0'
+numpy                 version=='1.19.2'
